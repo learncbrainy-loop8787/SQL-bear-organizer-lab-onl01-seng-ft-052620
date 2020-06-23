@@ -7,5 +7,3 @@ INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES
 (6,"Grinch", 2, "M", "Black", "Grinchy", 1),
 (7,"Wendy", 6, "F", "Blue", "naive", 1),
 (8,null, 20, "M", "black", "aggressive", 0);
-INSERT INTO table_name (column1, column2, column3, ...)
-VALUES (value1, value2, value3, ...);
