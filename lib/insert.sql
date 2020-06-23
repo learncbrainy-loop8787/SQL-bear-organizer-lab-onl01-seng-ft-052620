@@ -1,1 +1,0 @@
-sqil3> INSERRT 
